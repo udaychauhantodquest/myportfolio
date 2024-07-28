@@ -1,35 +1,34 @@
 {
   "files": {
-    "main.css": "/myportfolio/static/css/main.2e8c6230.css",
-    "main.js": "/myportfolio/static/js/main.b81c06ee.js",
+    "main.css": "/myportfolio/static/css/main.f91e59a4.css",
+    "main.js": "/myportfolio/static/js/main.9ed17b5d.js",
     "static/css/64.bba8fa55.chunk.css": "/myportfolio/static/css/64.bba8fa55.chunk.css",
     "static/js/64.00e7f1b4.chunk.js": "/myportfolio/static/js/64.00e7f1b4.chunk.js",
     "static/css/769.b3cbb36b.chunk.css": "/myportfolio/static/css/769.b3cbb36b.chunk.css",
     "static/js/769.81978c86.chunk.js": "/myportfolio/static/js/769.81978c86.chunk.js",
+    "static/media/Udayveer_Singh.pdf": "/myportfolio/static/media/Udayveer_Singh.51e1f3b99d23ca7c5e60.pdf",
     "static/media/Montserrat-Regular.ttf": "/myportfolio/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
     "static/media/Agustina.woff": "/myportfolio/static/media/Agustina.eb0c59dda4cc308cba96.woff",
     "static/media/manOnTable.svg": "/myportfolio/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
     "static/media/contactMailDark.svg": "/myportfolio/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
-    "static/media/quoraLogo.png": "/myportfolio/static/media/quoraLogo.85eb29f4d52320c8ed99.png",
     "static/media/developerActivity.svg": "/myportfolio/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
     "static/media/googleAssistantLogo.webp": "/myportfolio/static/media/googleAssistantLogo.f720c71652579588524a.webp",
-    "static/media/airbnbLogo.png": "/myportfolio/static/media/airbnbLogo.e8497507db673acd3991.png",
     "static/media/rbpg.jfif": "/myportfolio/static/media/rbpg.86d7368f005cd29258e9.jfif",
     "static/media/codeInLogo.webp": "/myportfolio/static/media/codeInLogo.e41a71d512efeda2a55c.webp",
     "static/media/skill.svg": "/myportfolio/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
-    "static/media/resume.pdf": "/myportfolio/static/media/resume.f0f733dd3cd732b39262.pdf",
     "static/media/pwaLogo.webp": "/myportfolio/static/media/pwaLogo.8bf2293da0ca66249e37.webp",
+    "static/media/tq.jfif": "/myportfolio/static/media/tq.221cd18892fd303ae18b.jfif",
     "index.html": "/myportfolio/index.html",
     "static/media/sky.jfif": "/myportfolio/static/media/sky.c323c95ba21a31359814.jfif",
-    "main.2e8c6230.css.map": "/myportfolio/static/css/main.2e8c6230.css.map",
-    "main.b81c06ee.js.map": "/myportfolio/static/js/main.b81c06ee.js.map",
+    "main.f91e59a4.css.map": "/myportfolio/static/css/main.f91e59a4.css.map",
+    "main.9ed17b5d.js.map": "/myportfolio/static/js/main.9ed17b5d.js.map",
     "64.bba8fa55.chunk.css.map": "/myportfolio/static/css/64.bba8fa55.chunk.css.map",
     "64.00e7f1b4.chunk.js.map": "/myportfolio/static/js/64.00e7f1b4.chunk.js.map",
     "769.b3cbb36b.chunk.css.map": "/myportfolio/static/css/769.b3cbb36b.chunk.css.map",
     "769.81978c86.chunk.js.map": "/myportfolio/static/js/769.81978c86.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2e8c6230.css",
-    "static/js/main.b81c06ee.js"
+    "static/css/main.f91e59a4.css",
+    "static/js/main.9ed17b5d.js"
   ]
 }
