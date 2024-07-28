@@ -215,14 +215,14 @@ const workExperiences = {
     {
       role: "PHP Developer",
       company: "Todquest Enterprises, Noida",
-      companylogo: require("./assets/images/quoraLogo.png"),
+      companylogo: require("./assets/images/tq.jfif"),
       date: "DECEMBER 2021 – APRIL 2023",
       desc: "Responsible towards sprint planning, setting up user stories, measuring progress of sprint, web app development and handling multiple projects."
     },
     {
       role: "Software Engineer Intern",
       company: "Incapp, Alpha 1-Greater Noida",
-      companylogo: require("./assets/images/airbnbLogo.png"),
+      companylogo: require("./assets/images/incapp.png"),
       date: "SEPTEMBER 2019 - DECEMBER 2020",
       desc: "Designing responsive mobile friendly UI, Writing business logic to support proper functioning of web application, deployment in server making application go live."
     }
@@ -350,7 +350,7 @@ const achievementSection = {
       ]
     }
   ],
-  display: true // Set false to hide this section, defaults to true
+  display: false // Set false to hide this section, defaults to true
 };
 
 // Blogs Section
@@ -393,7 +393,7 @@ const talkSection = {
       event_url: "https://www.facebook.com/events/2339906106275053/"
     }
   ],
-  display: true // Set false to hide this section, defaults to true
+  display: false // Set false to hide this section, defaults to true
 };
 
 // Podcast Section
@@ -406,7 +406,7 @@ const podcastSection = {
   podcast: [
     "https://anchor.fm/codevcast/embed/episodes/DevStory---Saad-Pasta-from-Karachi--Pakistan-e9givv/a-a15itvo"
   ],
-  display: true // Set false to hide this section, defaults to true
+  display: false // Set false to hide this section, defaults to true
 };
 
 // Resume Section
